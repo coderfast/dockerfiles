@@ -30,6 +30,9 @@ welcome.)
 
 You may also want to checkout my [dotfiles](https://github.com/jessfraz/dotfiles), specifically the aliases for all these files which are here: [github.com/jessfraz/dotfiles/blob/master/.dockerfunc](https://github.com/jessfraz/dotfiles/blob/master/.dockerfunc).
 
+### Video (Spanish) - How to launch firefox on Docker (on Unbutu)
+https://www.youtube.com/watch?v=SZhU114h_k4
+
 ## Contributing
 
 I try to make sure each Dockerfile has a command at the top to document running it,
